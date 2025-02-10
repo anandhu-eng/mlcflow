@@ -10,7 +10,6 @@ on:
       - dev
 
 jobs:
-
   publish:
     name: Publish the site
     runs-on: ubuntu-latest
